@@ -1,0 +1,23 @@
+Buiseness Entities for Employee Recruitment System
+
+1.User/Candidate :
+     (user_id,user_name,user_university,user_dob,user_mobno,user_address)
+
+2.Employer :
+     (emp_id,emp_name,org_id,emp_mobno)
+
+3.Job :
+     (job_id,org_id,emp_id,job_details)
+
+4.interview schedule :
+    (emp_id,inteview_date,interview_time,location)
+
+Buisness Operations
+
+1: user registration with their credentials
+2: User log in by authentication.
+3: Employer registration by their credentials
+4: Employer login by authentication.
+5. job searching for users.
+6. job posting for employer's.
+7. interview scheduling of shortlisted candidates by employers 

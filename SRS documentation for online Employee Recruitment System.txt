@@ -1,0 +1,35 @@
+SRS documentation for online Employee Recruitment System
+
+1.Intruduction :
+  Employee Recruitment System is a system which allows rganisation to post their hiring requirements .The organizations can view the profiles and cv’s of interested candidates. The job seekers can find the job of their interest through this System .
+The main goal of this is to optimize the employee recruitment process for the organization and allows candidates to find jobs easily
+2.Scope :
+    In this Employee Mangement System candidates can register themselves .They can view the different job postings by various organizations .they can apply to the job’s of their interest .Candidates can create their profile and can update it anytime
+    The Employers of different organizations can register themselves and can view the interested candidate profile and cv .They can connect with the candidate and can schedule the interviews .
+3.Functional Requirments :
+3.1 candidate/user registration 
+        1.candidate/user can register themselves on this Employee Recruitment System
+        2.System should authorize the candidate with their credentials
+3.2 User login
+        1.user’s can log in to the system with registered credentials.
+        2. System should allow to log in the authenticated user only.no unauthorized user should log in to the system.
+
+
+3.3 Employer Registration
+      1.Employers of different organizations can register themselves on this Employee Recruitment System
+        2.System should authorize the Employers with their credentials
+3.5 Employer login
+        1. Employers can log in to the system with registered credentials.
+        2. System should allow to log in the authenticated Employers only.no unauthorized Employer should log in to the system.
+3.5 Job Requirements
+      1. Employer’s of different organizations can post their job Requirements for their organization 
+      2.They can also be able to visit the candidates profile and can see the details of candidate 
+3.6 Apply for job
+      1. Candidate should be able to apply for the jobs of their interest.
+      2. They should able to see the job requirements posted by different employers.
+      3. They should able to apply for the jobs posted by employers of organization.
+3.7 Interview Schedule 
+      1. The employers can shortlist the candidates according their skills .
+      2. The System should allow employers to schedule the interview of shortlisted 
+Candidates.
+
